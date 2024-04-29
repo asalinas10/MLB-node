@@ -3,7 +3,6 @@ const slugify = require('slugify');
 
 const teamSchema = new mongoose.Schema(
   {
-    id: Number,
     name: {
       type: String,
       required: [true, 'Every team must have a name'],

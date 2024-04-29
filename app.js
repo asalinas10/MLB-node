@@ -12,12 +12,6 @@ if (process.env.NODE_END === 'development') {
 
 app.use(express.json());
 
-app.use((req, res, next) => {
-  res.status(200).json({ message: 'Hello from the server', app: 'MLB' });
-
-  next();
-});
-
 // routes
 app.use('/api/v1/teams', teamRouter);
 

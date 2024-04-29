@@ -1,6 +1,5 @@
 [
   {
-    "id": 0,
     "name": "Arizona Diamondbacks",
     "location": "Phoenix, Arizona",
     "park": "Chase Field",
@@ -32,7 +31,6 @@
     "leftOnBase": 1091
   },
   {
-    "id": 1,
     "name": "Atlanta Braves",
     "location": "Cumberland, Georgia",
     "park": "Truist park",
@@ -64,7 +62,6 @@
     "leftOnBase": 1062
   },
   {
-    "id": 2,
     "name": "Baltimore Orioles",
     "location": "Baltimore, Maryland",
     "park": "Camden Yards",
@@ -96,7 +93,6 @@
     "leftOnBase": 1041
   },
   {
-    "id": 3,
     "name": "Boston Red Sox",
     "location": "Boston, Massachusetts",
     "park": "Fenway park",
@@ -128,7 +124,6 @@
     "leftOnBase": 1117
   },
   {
-    "id": 4,
     "name": "Chicago Cubs",
     "location": "Chicago, Illinois",
     "park": "Wrigley Field",
@@ -160,7 +155,6 @@
     "leftOnBase": 1127
   },
   {
-    "id": 5,
     "name": "Chicago White Sox",
     "location": "Chicago, Illinois",
     "park": "Guaranteed Rate Field",
@@ -192,7 +186,6 @@
     "leftOnBase": 1009
   },
   {
-    "id": 6,
     "name": "Cincinnati Reds",
     "location": "Cincinnati, Ohio",
     "park": "Great American Ball park",
@@ -224,7 +217,6 @@
     "leftOnBase": 1107
   },
   {
-    "id": 7,
     "name": "Cleveland Guardians",
     "location": "Cleveland, Ohio",
     "park": "Progressive Field",
@@ -256,7 +248,6 @@
     "leftOnBase": 1121
   },
   {
-    "id": 8,
     "name": "Colorado Rockies",
     "location": "Denver, Colorado",
     "park": "Coors Field",
@@ -288,7 +279,6 @@
     "leftOnBase": 1038
   },
   {
-    "id": 9,
     "name": "Detroit Tigers",
     "location": "Detroit, Michigan",
     "park": "Comerica park",
@@ -320,7 +310,6 @@
     "leftOnBase": 1103
   },
   {
-    "id": 10,
     "name": "Houston Astros",
     "location": "Houston, Texas",
     "park": "Minute Maid park",
@@ -352,7 +341,6 @@
     "leftOnBase": 1134
   },
   {
-    "id": 11,
     "name": "Kansas City Royals",
     "location": "Kansas City, Missouri",
     "park": "Kaufmann Stadium",
@@ -384,7 +372,6 @@
     "leftOnBase": 1009
   },
   {
-    "id": 12,
     "name": "Los Angeles Angels",
     "location": "Anaheim, California",
     "park": "Angel Stadium",
@@ -416,7 +403,6 @@
     "leftOnBase": 1102
   },
   {
-    "id": 13,
     "name": "Los Angeles Dodgers",
     "location": "Los Angeles, California",
     "park": "Dodger Stadium",
@@ -448,7 +434,6 @@
     "leftOnBase": 1163
   },
   {
-    "id": 14,
     "name": "Miami Marlins",
     "location": "Miami, Florida",
     "park": "Marlins park",
@@ -480,7 +465,6 @@
     "leftOnBase": 1097
   },
   {
-    "id": 15,
     "name": "Milwaukee Brewers",
     "location": "Milwaukee, Wisconsin",
     "park": "Miller park",
@@ -512,7 +496,6 @@
     "leftOnBase": 1075
   },
   {
-    "id": 16,
     "name": "Minnesota Twins",
     "location": "Minneapolis, Minnesota",
     "park": "Target Field",
@@ -544,7 +527,6 @@
     "leftOnBase": 1138
   },
   {
-    "id": 17,
     "name": "New York Mets",
     "location": "Queens, New York",
     "park": "Citi Field",
@@ -576,7 +558,6 @@
     "leftOnBase": 1082
   },
   {
-    "id": 18,
     "name": "New York Yankees",
     "location": "The Bronx, New York",
     "park": "Yankee Stadium II",
@@ -608,7 +589,6 @@
     "leftOnBase": 1007
   },
   {
-    "id": 19,
     "name": "Oakland Athletics",
     "location": "Oakland, California",
     "park": "Oakland-Alameda County Stadium",
@@ -640,7 +620,6 @@
     "leftOnBase": 1047
   },
   {
-    "id": 20,
     "name": "Philadelphia Phillies",
     "location": "Philadelphia, Pennsylvania",
     "park": "Citizens Bank park",
@@ -672,7 +651,6 @@
     "leftOnBase": 1123
   },
   {
-    "id": 21,
     "name": "Pittsburgh Pirates",
     "location": "Pittsburgh, Pennsylvania",
     "park": "PNC park",
@@ -704,7 +682,6 @@
     "leftOnBase": 1065
   },
   {
-    "id": 22,
     "name": "San Diego Padres",
     "location": "San Diego, California",
     "park": "Petco park",
@@ -736,7 +713,6 @@
     "leftOnBase": 1144
   },
   {
-    "id": 23,
     "name": "San Francisco Giants",
     "location": "San Francisco, California",
     "park": "Oracle park",
@@ -768,7 +744,6 @@
     "leftOnBase": 1130
   },
   {
-    "id": 24,
     "name": "Seattle Mariners",
     "location": "Seattle, Washington",
     "park": "T-Mobile park",
@@ -800,7 +775,6 @@
     "leftOnBase": 1144
   },
   {
-    "id": 25,
     "name": "St. Louis Cardinals",
     "location": "St. Louis, Missouri",
     "park": "Bush Stadium",
@@ -832,7 +806,6 @@
     "leftOnBase": 1183
   },
   {
-    "id": 26,
     "name": "Tampa Bay Rays",
     "location": "St. Petersburg, Florida",
     "park": "Tropicana Field",
@@ -864,7 +837,6 @@
     "leftOnBase": 1047
   },
   {
-    "id": 27,
     "name": "Texas Rangers",
     "location": "Arlington, Texas",
     "park": "Globe Life Field",
@@ -896,7 +868,6 @@
     "leftOnBase": 1164
   },
   {
-    "id": 28,
     "name": "Toronto Blue Jays",
     "location": "Toronto, Ontario",
     "park": "Rogers Centre",
@@ -928,7 +899,6 @@
     "leftOnBase": 1170
   },
   {
-    "id": 29,
     "name": "Washington Nationals",
     "location": "Washington, D.C.",
     "park": "Nationals park",
